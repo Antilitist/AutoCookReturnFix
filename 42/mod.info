@@ -1,0 +1,10 @@
+name=AutoCook Return Fix
+id=AutoCookReturnFix
+poster=poster.png
+icon=icon.png
+description=Client fix for AutoCook: return leftover ingredients and the cooking pot/base to the containers they were taken from. Load after AutoCook. Verbose logging on for testing (disable in AutoCookReturnFix.lua).
+author=Nipsy / Grok
+modversion=1.0.0
+versionMin=42.0
+require=AutoCook
+loadModAfter=AutoCook
